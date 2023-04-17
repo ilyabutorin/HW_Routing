@@ -1,0 +1,22 @@
+.about_page {
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.main_text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons button {
+    width: 250px;
+    height: 30px;
+}
